@@ -51,6 +51,7 @@ export const columns: ColumnDef<User>[] = [
   },
   {
     id: 'actions',
+    header: 'Aksi',
     enableHiding: false,
     cell: ({ row }) => {
       const user = row.original

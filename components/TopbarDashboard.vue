@@ -12,12 +12,12 @@
           <span class="sr-only">Toggle sidebar</span>
         </button>
         <NuxtLink to="/dashboard" class="flex items-center justify-between mr-4">
-          <img
+          <!-- <img
             src="~/assets/images/logoasdp.png"
             class="h-8 mr-3"
             alt="ASDP Logo"
-          >
-          <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">ASDP</span>
+          > -->
+          <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Dashboard Laporan</span>
         </NuxtLink>
       </div>
       <div class="flex items-center lg:order-2">

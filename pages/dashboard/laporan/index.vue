@@ -211,7 +211,7 @@ const exportDataToPdf = () => {
 
   const date = Date().split(' ')
   const dateStr = date[0] + date[1] + date[2] + date[3] + date[4]
-  doc.text('Laporan Kehadiran', 14, 15)
+  doc.text('Laporan Riwayat Akses', 14, 15)
   doc.save(`report_${dateStr}.pdf`)
 }
 
@@ -270,7 +270,7 @@ const printData = () => {
         </style>
       </head>
       <body>
-        <h1>Laporan Kehadiran</h1>
+        <h1>Laporan Riwayat Akses</h1>
         <table>
           <thead>
             <tr>
