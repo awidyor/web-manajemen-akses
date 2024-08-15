@@ -1,4 +1,4 @@
-# Manajemen Akses Web
+# Dashboard Laporan
 
 This project is a web-based access jt application that is used to manage user access. This application is built using the NuxtJS framework and uses the Prisma ORM to connect to the database.
 
@@ -58,16 +58,6 @@ npm run preview
 
 ## 📝️ Account
 
-### Google Account
-
--   Email: daunnesiaproject2@gmail.com
--   Password: $daunnesia2023
-
-### Github Account
-
--   Username: project-based2
--   Password: $daunnesia2023
-
 ### Kinde Account
 
 -   Use Google SSO
@@ -79,11 +69,6 @@ npm run preview
 ### Dotenv Account
 
 -   Use Google Email
-
-### Application Login Account
-
--   Email: daunnesiaproject2@gmail.com
--   Password: $daunnesia2023
 
 ## 📝️ Documentation
 
